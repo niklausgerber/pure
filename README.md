@@ -5,3 +5,23 @@ pure is a free set of handcrafted minimalistic loading animations for your proje
 ![](https://github.com/niklausgerber/pure/blob/master/001-square.gif)
 
 ![](https://github.com/niklausgerber/pure/blob/master/002-wave.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/003-spread.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/004-squares.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/005-status.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/006-shift.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/007-flex.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/008-dots.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/009-360.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/010-circles.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/011-asana.gif)
+
+![](https://github.com/niklausgerber/pure/blob/master/012-curve.gif)
