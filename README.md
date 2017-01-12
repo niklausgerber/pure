@@ -25,3 +25,6 @@ pure is a free set of handcrafted minimalistic loading animations for your proje
 ![](https://github.com/niklausgerber/pure/blob/master/011-asana.gif)
 
 ![](https://github.com/niklausgerber/pure/blob/master/012-curve.gif)
+
+## Donation
+I love to create and I won't ask for repayment. If you appreciate my work and would like to support me I am sure you will earn some extra Karma points. <a href="https://www.paypal.me/NiklausGerber" target="_blank" title="Please donate">Please donate</a>.
